@@ -13,6 +13,6 @@ Our mission is to provide an easy, fast, and reliable computing model to help th
 | Features | CarbonFood | Existing solutions |
 | --- | --- | --- |
 | Fast | ✓ | x |
-| Error margin | ✓ | ✓ |
+| Efficient | ✓ | ✓ |
 | Easy | ✓ | x |
 | Cost effective | ✓ | x |
