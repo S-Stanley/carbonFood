@@ -1,6 +1,6 @@
 # CarbonFood
 
-CarbonFood is a web application that allows restaurants to analyze the carbon footprint of the dishes on their menu.
+CarbonFood is a web application that allows food brand to analyze the [impact score](http://impactntechscore.impactscore.fr/) of their products.
 
 ### Contexte
 
